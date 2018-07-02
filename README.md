@@ -3,6 +3,7 @@
 
 ## Índice de iconos para bloques Icestudio
 
+[Circuit Scramble](https://github.com/fgcoca/FPGAs/tree/master/Circuit-scramble "Circuit Scramble")
 
 
 ## **Author**
