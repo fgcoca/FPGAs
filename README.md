@@ -20,8 +20,11 @@
 
 | Bloque | Descarga | Descripción |
 |--------|----------|-------------|
-| ![](https://github.com/fgcoca/FPGAs/blob/master/Logic-Gates/iconos/or3.svg?sanitize=true) | [or3.ice](https://github.com/fgcoca/FPGAs/blob/master/Logic-Gates/bloques/or3.ice) | **Puerta OR** de 3 entradas |
-
+| ![](https://github.com/fgcoca/FPGAs/blob/master/Logic-Gates/bloques/block-or3.svg?sanitize=true) | [or3.ice](https://github.com/fgcoca/FPGAs/blob/master/Logic-Gates/bloques/or3.ice) | **Puerta OR** de 3 entradas |
+| ![](https://github.com/fgcoca/FPGAs/blob/master/Logic-Gates/bloques/block-nand3.svg?sanitize=true) | [nand3.ice](https://github.com/fgcoca/FPGAs/blob/master/Logic-Gates/bloques/nand3.ice) | **Puerta NAND** de 3 entradas |
+| ![](https://github.com/fgcoca/FPGAs/blob/master/Logic-Gates/bloques/block-nor3.svg?sanitize=true) | [nor3.ice](https://github.com/fgcoca/FPGAs/blob/master/Logic-Gates/bloques/nor3.ice) | **Puerta NOR** de 3 entradas |
+| ![](https://github.com/fgcoca/FPGAs/blob/master/Logic-Gates/bloques/block-xor3.svg?sanitize=true) | [xor3.ice](https://github.com/fgcoca/FPGAs/blob/master/Logic-Gates/bloques/xor3.ice) | **Puerta XOR** de 3 entradas |
+| ![](https://github.com/fgcoca/FPGAs/blob/master/Logic-Gates/bloques/block-xnor3.svg?sanitize=true) | [xnor3.ice](https://github.com/fgcoca/FPGAs/blob/master/Logic-Gates/bloques/xnor3.ice) | **Puerta XNOR** de 3 entradas |
 
 ## **Author**
 
