@@ -18,9 +18,9 @@
 
 ## Bloques para Icestudio
 
-| Símbolo | Bloque | Descarga | Descripción |
-|---------|--------|----------|-------------|
-| ![](https://github.com/fgcoca/FPGAs/blob/master/Logic-Gates/iconos/or3.svg?sanitize=true) |  |  [or3.ice](https://github.com/fgcoca/FPGAs/blob/master/Logic-Gates/bloques/or3.ice) | **Puerta OR** de 3 entradas |
+| Bloque | Descarga | Descripción |
+|--------|----------|-------------|
+| ![](https://github.com/fgcoca/FPGAs/blob/master/Logic-Gates/iconos/or3.svg?sanitize=true) | [or3.ice](https://github.com/fgcoca/FPGAs/blob/master/Logic-Gates/bloques/or3.ice) | **Puerta OR** de 3 entradas |
 
 
 ## **Author**
