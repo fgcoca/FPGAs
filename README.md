@@ -28,6 +28,10 @@
 | ![](https://github.com/fgcoca/FPGAs/blob/master/Logic-Gates/bloques/block-nor3.svg?sanitize=true) | [nor3.ice](https://github.com/fgcoca/FPGAs/blob/master/Logic-Gates/bloques/nor3.ice) | **Puerta NOR** de 3 entradas |
 | ![](https://github.com/fgcoca/FPGAs/blob/master/Logic-Gates/bloques/block-xor3.svg?sanitize=true) | [xor3.ice](https://github.com/fgcoca/FPGAs/blob/master/Logic-Gates/bloques/xor3.ice) | **Puerta XOR** de 3 entradas |
 | ![](https://github.com/fgcoca/FPGAs/blob/master/Logic-Gates/bloques/block-xnor3.svg?sanitize=true) | [xnor3.ice](https://github.com/fgcoca/FPGAs/blob/master/Logic-Gates/bloques/xnor3.ice) | **Puerta XNOR** de 3 entradas |
+| ![](https://github.com/fgcoca/FPGAs/blob/master/Courses/blocks/block-First-course.svg?sanitize=true) | [First-course.ice](https://github.com/fgcoca/FPGAs/blob/master/Courses/blocks/First-course.ice) | **Primer curso** de la Academia Jedi de Hardware) |
+| ![](https://github.com/fgcoca/FPGAs/blob/master/Courses/blocks/block-Second-course.svg?sanitize=true) | [Second-course.ice](https://github.com/fgcoca/FPGAs/blob/master/Courses/blocks/Second-course.ice) | **Segundo curso** de la Academia Jedi de Hardware) |
+| ![](https://github.com/fgcoca/FPGAs/blob/master/Courses/blocks/block-Third-course.svg?sanitize=true) | [Third-course.ice](https://github.com/fgcoca/FPGAs/blob/master/Courses/blocks/Third-course.ice) | **Tercer curso** de la Academia Jedi de Hardware) |
+
 
 ## **Author**
 
