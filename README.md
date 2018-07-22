@@ -15,9 +15,9 @@
 | ![](https://github.com/fgcoca/FPGAs/blob/master/Logic-Gates/iconos/nor3.svg?sanitize=true) |  [nor3.svg](https://github.com/fgcoca/FPGAs/blob/master/Logic-Gates/iconos/nor3.svg) | **Puerta NOR** de 3 entradas |
 | ![](https://github.com/fgcoca/FPGAs/blob/master/Logic-Gates/iconos/xor3.svg?sanitize=true) |  [xor3.svg](https://github.com/fgcoca/FPGAs/blob/master/Logic-Gates/iconos/xor3.svg) | **Puerta XOR** de 3 entradas |
 | ![](https://github.com/fgcoca/FPGAs/blob/master/Logic-Gates/iconos/xnor3.svg?sanitize=true) |  [xnor3.svg](https://github.com/fgcoca/FPGAs/blob/master/Logic-Gates/iconos/xnor3.svg) | **Puerta XNOR** de 3 entradas |
-| ![](https://github.com/fgcoca/FPGAs/blob/master/Courses/icons/First-course.svg?sanitize=true) |  [First-course.svg](https://github.com/fgcoca/FPGAs/blob/master/Courses/icons/First-course.svg) | Icono del **Primer curso** de la Academia Jedi de Hardware |
-| ![](https://github.com/fgcoca/FPGAs/blob/master/Courses/icons/Second-course.svg?sanitize=true) |  [Second-course.svg](https://github.com/fgcoca/FPGAs/blob/master/Courses/icons/Second-course.svg | Icono del **Segundo curso** de la Academia Jedi de Hardware |
-| ![](https://github.com/fgcoca/FPGAs/blob/master/Courses/icons/Third-course.svg?sanitize=true) |  [Third-course.svg](https://github.com/fgcoca/FPGAs/blob/master/Courses/icons/Third-course.svg) | Icono del **Tercer curso** de la Academia Jedi de Hardware |
+| ![](https://github.com/fgcoca/FPGAs/blob/master/Courses/icons/First-course.svg?sanitize=true) |  [First-course.svg](https://github.com/fgcoca/FPGAs/blob/master/Courses/icons/First-course.svg) | Icono del **Primer curso** de la Academia Jedi de Hardware) |
+| ![](https://github.com/fgcoca/FPGAs/blob/master/Courses/icons/Second-course.svg?sanitize=true) |  [Second-course.svg](https://github.com/fgcoca/FPGAs/blob/master/Courses/icons/Second-course.svg | Icono del **Segundo curso** de la Academia Jedi de Hardware) |
+| ![](https://github.com/fgcoca/FPGAs/blob/master/Courses/icons/Third-course.svg?sanitize=true) |  [Third-course.svg](https://github.com/fgcoca/FPGAs/blob/master/Courses/icons/Third-course.svg) | Icono del **Tercer curso** de la Academia Jedi de Hardware) |
 
 ## Bloques para Icestudio
 
