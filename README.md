@@ -35,7 +35,7 @@
 
 ## **Author**
 
-[Federico Coca Caba] (https://github.com/fgcoca)
+[Federico Coca Caba](https://github.com/fgcoca)
 
 
 ## **License**
