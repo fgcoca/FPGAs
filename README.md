@@ -32,6 +32,13 @@
 | ![](https://github.com/fgcoca/FPGAs/blob/master/Courses/blocks/block-Second-course.svg?sanitize=true) | [Second-course.ice](https://github.com/fgcoca/FPGAs/blob/master/Courses/blocks/Second-course.ice) | **Segundo curso** de la Academia Jedi de Hardware) |
 | ![](https://github.com/fgcoca/FPGAs/blob/master/Courses/blocks/block-Third-course.svg?sanitize=true) | [Third-course.ice](https://github.com/fgcoca/FPGAs/blob/master/Courses/blocks/Third-course.ice) | **Tercer curso** de la Academia Jedi de Hardware) |
 
+## Icestudio 3D
+
+El logotipo de Icestudio diseñado en 3D queda así:  
+![Image][10] 
+
+ [10]: https://github.com/fgcoca/FPGAs/blob/master/icestudio-3D/images/icestudio-3D-mini.jpg [Ampliar](https://github.com/fgcoca/FPGAs/blob/master/icestudio-3D/images/icestudio-3D.jpg)
+
 
 ## **Author**
 
