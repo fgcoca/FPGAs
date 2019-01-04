@@ -37,7 +37,15 @@
 El logotipo de Icestudio diseñado en 3D queda así:  
 ![Image][10] 
 
- [10]: https://github.com/fgcoca/FPGAs/blob/master/icestudio-3D/images/icestudio-3D-mini.jpg [Ampliar](https://github.com/fgcoca/FPGAs/blob/master/icestudio-3D/images/icestudio-3D.jpg)
+[10]: https://github.com/fgcoca/FPGAs/blob/master/icestudio-3D/images/icestudio-3D-mini.jpg 
+ 
+| Archivo | Descripción |
+|---------|-------------|
+| [icestudio-3D.fcstd](https://github.com/fgcoca/FPGAs/blob/master/icestudio-3D/src/icestudio-3D.fcstd) | Archivo fuente en **FreeCAD** | 
+| [icestudio-base.stl](https://github.com/fgcoca/FPGAs/blob/master/icestudio-3D/stl/icestudio-base.stl) | **STL** para la base | 
+| [icestudio-divisiones.stl](https://github.com/fgcoca/FPGAs/blob/master/icestudio-3D/stl/icestudio-divisiones.stl) | **STL** para los trozos en los que se divide la base | 
+| [icestudio-base.step](https://github.com/fgcoca/FPGAs/blob/master/icestudio-3D/step/icestudio-base.step) | Formato para otras aplicaciones | 
+| [icestudio-divisiones.step(https://github.com/fgcoca/FPGAs/blob/master/icestudio-3D/step/icestudio-divisiones.step) |Formato para otras aplicaciones | 
 
 
 ## **Author**
